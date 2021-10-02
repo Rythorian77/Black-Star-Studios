@@ -1,0 +1,15 @@
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\bin\Debug\Black Star Studios.exe.config
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\bin\Debug\Black Star Studios.exe
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\bin\Debug\Black Star Studios.pdb
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\bin\Debug\Interop.WMPLib.dll
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.csproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Interop.WMPLib.dll
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.csproj.ResolveComReference.cache
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black_Star_Studios.Form1.resources
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black_Star_Studios.Properties.Resources.resources
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.csproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.csproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.exe
+C:\Users\justin.ross\source\repos\Black Star Studios\Black Star Studios\obj\Debug\Black Star Studios.pdb
